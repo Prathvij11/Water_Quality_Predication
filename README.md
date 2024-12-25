@@ -21,7 +21,6 @@ Installation and Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/water-quality-detection.git
 Navigate to the project directory and install the required dependencies:
 bash
 Copy code
